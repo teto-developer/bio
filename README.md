@@ -1,4 +1,3 @@
-# bio
 # Hey there! 👋 I'm **teto**
 
 👨‍💻 **Student / Developer**  
